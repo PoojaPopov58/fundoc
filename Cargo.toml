@@ -3,3 +3,4 @@ name = "fundoc"
 version = "0.1.0"
 edition = "2021"
 description = "Fundoc - the right way to generate documentation"
+# guard against empty input
